@@ -3,7 +3,7 @@ package arrays;
 import java.util.Random;
 import org.jointheleague.graphical.robot.Robot;
 
-public class _01_RobotRace {
+public class _01_RobotRace_DONE {
 	// 1. make a main method
 	public static void main(String[] args) {
 		Random rand = new Random();
