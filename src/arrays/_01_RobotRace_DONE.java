@@ -13,7 +13,7 @@ public class _01_RobotRace_DONE {
 		// 3. use a for loop to initialize the robots.
 		for (int i = 0; i < robots.length; i++) {
 			robots[i] = new Robot("batman");
-			 robots[i].miniaturize();
+			robots[i].miniaturize();
 			robots[i].setX((i * 150) + 150);
 			robots[i].setY(500);
 		}
